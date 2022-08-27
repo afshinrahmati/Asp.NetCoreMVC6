@@ -1,0 +1,15 @@
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/Asp.NetCoreMVC6
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/Asp.NetCoreMVC6.deps.json
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/Asp.NetCoreMVC6.runtimeconfig.json
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/Asp.NetCoreMVC6.dll
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/ref/Asp.NetCoreMVC6.dll
+/home/afshin/Asp.NetCoreMVC6/bin/Debug/net6.0/Asp.NetCoreMVC6.pdb
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.csproj.AssemblyReference.cache
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.GeneratedMSBuildEditorConfig.editorconfig
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.AssemblyInfoInputs.cache
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.AssemblyInfo.cs
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.csproj.CoreCompileInputs.cache
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.dll
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/ref/Asp.NetCoreMVC6.dll
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.pdb
+/home/afshin/Asp.NetCoreMVC6/obj/Debug/net6.0/Asp.NetCoreMVC6.genruntimeconfig.cache
